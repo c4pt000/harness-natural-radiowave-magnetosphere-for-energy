@@ -8,6 +8,12 @@ the natural momentum and movement of radiowaves and or the earth's natural magne
 
 ![osaka-lab-testing-write-up](https://github.com/c4pt000/radiowavevoltic-harness-natural-radiowave-magnetosphere-for-energy/blob/main/5.0056724.pdf)
 <br>
+<br>
+
+<br><br>
+
+<br>
+<br>
 https://www.wolframalpha.com/input/?i=f+%3D+%28+gamma+%2F+%282pi%29%29+sqrt%28B%28B+%2B+%CE%BC_0++M%29+%29
 
 
