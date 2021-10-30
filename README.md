@@ -17,7 +17,7 @@ https://www.wolframalpha.com/input/?i=f+%3D+%28+gamma+%2F+%282pi%29%29+sqrt%28B%
 
 * side thought
 (possibly or possibly not increasing output using a "step-up" transformer)
-possibly using a step-up transformer even the size of a dime to drive 1 volt up to 12 volt a step-up transformer the size of a physical (9 volt battery) with many turns in the transformer to drive 1 volt up to 60 volts~
+possibly using a step-up transformer even the size of a dime to drive 1 volt up to 12 volt a step-up transformer the size of a physical (9 volt battery) with many turns in the transformer to drive 1 volt up to 60 volts~ or beyond... an array to drive high voltage
 
 # possible application to drive higher energy for cars, drones, robot power and hand held applications
 * https://github.com/c4pt000/electric-car-charging-redesign
