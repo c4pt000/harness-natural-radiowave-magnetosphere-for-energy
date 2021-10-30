@@ -13,3 +13,6 @@ the natural momentum and movement of radiowaves and or the earth's natural magne
 * side thought
 (possibly or possibly not increasing output using a "step-up" transformer)
 possibly using a step-up transformer even the size of a dime to drive 1 volt up to 12 volt a step-up transformer the size of a physical (9 volt battery) with many turns in the transformer to drive 1 volt up to 60 volts~
+
+# possible application to drive higher energy for cars, drones, robot power and hand held applications
+https://github.com/c4pt000/electric-car-charging-redesign
