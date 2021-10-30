@@ -15,7 +15,11 @@ the natural momentum and movement of radiowaves and or the earth's natural magne
 <br>
 <br>
 https://www.wolframalpha.com/input/?i=f+%3D+%28+gamma+%2F+%282pi%29%29+sqrt%28B%28B+%2B+%CE%BC_0++M%29+%29
+<br>
 
+<br><br>
+
+<br>
 
 * side thought
 (possibly or possibly not increasing output using a "step-up" transformer)
